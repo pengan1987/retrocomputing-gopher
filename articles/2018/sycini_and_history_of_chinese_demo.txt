@@ -1,0 +1,172 @@
+﻿昙花一现：中国Demoscene社区简史 
+
+这篇文章原是游研社的征稿： 
+http://www.yystv.cn/p/3012 
+
+也欢迎访问我的知乎专栏：古董电脑室，这里不仅讨论古董电脑，也会讨论和数字 
+人文学（digital humanities）有关的种种话题 
+https://zhuanlan.zhihu.com/retrocomputing 
+
+中文社区接触Demoscene的历史，大概可以追溯到90年代中后期的一些盗版光盘 
+中，这些光盘中往往带有一些Demo程序，作为光盘的“片花”用以填充容量，因此许 
+多用户在那个时候都接触到了一些Demo作品。早在2001年叶力奥（eapass）就在其 
+“计算艺术”网站[1]上向国内社区分享了收集到的一些demo，而第一个正式向中文 
+社区介绍Demo制作工具的网站，则应该是2003~2004年间成都的爱好者Frank创建的 
+farb-rausch中文同步镜像站[2]，我们虽然不知道究竟有多少Demo作者访问过这个 
+网站，但这确实是我能找到的中文世界中Demoscene的最早痕迹。 
+
+作为一个的亚文化社区的中文Demoscene更加被认可的出现时间，则要等到2005年3 
+月叶力奥发表的博客《demo之梦》[3]，以及接下来4月中国人民大学艺术第12工作室 
+的几位学生在互联网上开设的sYcini.com——中文世界中第一个关注与讨论 
+Demoscene的在线社区。 
+
+中国的Demoscene社区和Flash动画社区的关系相当密切。sYcini上最早发布的一部 
+分作品，如，《mario》[4]，《BeiJiNg utOPiA》[5]，816.demo（childrenese）[6] 
+等都是使用Flash制作的。虽然在国际社区中Flash并不是一种常用的Demo制作手 
+段。但是作为当时国内流行的电脑动画制作工具，Flash确实成为许多中国用户制 
+作动画的第一选择，而使用Flash的经验也为他们向更复杂的动画制作技术发起挑 
+战提供了基础。 
+
+
+2005年，3月的sY03.Production。可能是中文社区中出现的第一个被西方世界广为 
+接受的demo作品。sY03的名字中的03是代表着制作的月份，而sY则是sYcini的缩 
+写。在之后的几个月里，sYcini陆续推出了sY05和sY06两个使用werkkzeug制作的 
+Demo作品，其中也以社团的名义发布过一些其他的作品。比如使用Flash制作的 
+816.demo，与sY05一起在2005年5月发表。 
+
+这一年的夏天，北影举办了体验与知觉——北京电影学院新视像·新媒体艺术节，这 
+是中文世界里第一次Demo社区集中展示其成果的机会，算得上是一次Demoparty的 
+雏形。 
+
+同年，sYcini还与三拓旗剧社合作，作为多媒体视效团队参演了8月10号在人艺剧 
+场首次公开演出的舞台剧，《6:2II》。成为Demoscene与舞台艺术结合，在中国绝无 
+仅有的一次尝试。 
+
+几乎同一时候，其他一些地方的爱好者也独立的推出了类似的作品。其中较为有影 
+响力的是西安美院的Powerwood在2005年7月发表的《灵媒疾思》[7]，这个作品是他 
+当年的毕业展览作品。此外湖北大学的Azure也在自己的个人博客[8]上公开了《记 
+忆2004》[9]和《Azure Will Makes》[10]。到2005年下半年，西方世界的一些爱好者 
+已经注意到了这个来自遥远中国的Demo社区的存在。并对其展示出极大的兴趣和好 
+奇。但其中的一些回应也显示出西方社区对中文世界中Demoscene的存在是否能够 
+持续的一些怀疑，我们看的到一些像“中国人总是在忙着赚钱，不会参与制作Demo 
+这样不赚钱的活动”[11]，一些西方爱好者认为Demoscene作为非商业化的文化活 
+动，在中国难以得到持久发展的动力。 
+2006年，这是sYcini的影响力持续扩大的一年，这一年中sunnm0等人以第12工作室 
+的名义在云水天地画廊举办了“飘动影像”视频装置展览[12]。并接受了PAiN电子杂 
+志的采访[13]。 
+
+这一年中其他的作者作品也开始大量涌现在sYcini网站上，Dwing陆续制作了两款 
+32KB音乐盒，而Wacker则制作了《China 2006 Intro》[14]、《China 2006 
+Musicdisk》（音乐磁盘）以及为AMP（Amiga音乐保护计划）制作的Logo，Azure发 
+表了他的最后一部Demo作品《重生.azure》[15]，而psyong发布了《psyong64k- 
+1》[16]。2006年上半年，sYcini以团队的名义发行了最后一部作品——《哀牡 
+丹》[17]，但是这部作品已经遗失，我们已无缘一窥这部sYcini“巅峰之作”的真面目 
+2006年10月， CSK在他的博客中发表了《[号召贴]Demo 
+Scene:Principles,Techniques,and Tools》（Demoscene：理论技术和工具）[18] 
+一帖，成为即《demo之梦》之后，又一篇在中国影响较广的Demoscene科普文。 
+
+2006年下半年开始，中国的Demoscne开始打破sYcini“一枝独秀”的局面，迎来更多 
+新面孔的出现，2006年10月，胜勋发布了《pad50(color)》和《32k_OpenGL_DEMO》。 
+2007年2月，dword在pouet.net发布了4部作品[19]，来自宁波的xlcger也在sYcini 
+网站上发布了两部Demo作品，2007年3月，我们则迎来了来自上海华东师范大学的 
+Demo团队EveTrex-1[20]以及在西方Demoscene社区颇受好评的由wx制作的《KXXT》[21]。 
+
+希腊著名的Demo开发小组仙女座软件开发组（Andromeda Software Development） 
+的成员Navis在采访中这样描述到：“最后值得一提的是我注意到了wx的作品 
+《KXXT》，它不是我今年看到的最好的一部demo，但却是我见过的最为奇异的特效和 
+流程组合，我之前从来没有见过这样的作品！”[22] 
+
+2007年下半年sYcini网站面临无人维护的境地，并很快就无法访问。我曾经尝试和 
+当年的一些Demo作者讨论中国Demoscene社区衰落的原因，Dwing认为主要的原因是 
+国内的IT行业起步较晚，底层开发技术不够普及：“demo主要是炫技目的，这需要 
+对某领域专研得很深，即使没有什么实用价值。最近一些年，由于编程知识爆炸到 
+一定程度，软件复杂度越来越高，开发只能越来越面向高层，所以研究底层的人越 
+来越少了。”，而Powerwood则认为受制于文理分科和国内艺术行业对科技的接受程 
+度：“在那个3dmax都还很神秘的年代，你说这些没人听得懂，作为艺术形式，那个 
+年代大部分学艺术的都是电脑盲，现在可能好点，这东西必须兼具计算机能力和艺 
+术修养两方面，但国内的教育与艺术大环境并没有这种土壤。”，而wx则认为是世 
+俗的成功给年轻人的压力：“还是没有经济利益，这个东西不能赚钱，毕竟国内的 
+社会环境如此，好学校好工作显然是更重要的事情。” 
+
+在此之后中文世界里再没有第二个可以集中讨论Demoscene的地方，国内Demoscene 
+社区的热度也一落千丈，但仍有零星的爱好者尝试发布他们的Demo。比如牡丹园 
+（mrTony）[23]制作的《Connie》[24]及其颇具新意的尝试——文本控制台Demo《怒放 
+（Blossom）》[25]。 
+
+中文世界里重拾Demoscene的尝试仍然零星的出现在互联网社区中，Ubuntu论坛里 
+cjxgm曾经在2010年到2011年间尝试制作过一些Demo[26]，而ShaderToy中EvilRyu 
+的一些作品[27]，也引起过西方Demoscene社区的注意。近年来创意编程作为一些 
+美术和新媒体专业的课程被引入，客观上创造了让更多人接触Demoscene的条件。 
+让我们似乎又看到了在中国重建一个Demo社区的期望。 
+
+要建设一个活跃的Demoscene社区注定需要许多人的不同努力，即使在相对起步较 
+早的北美和日本，Demo社区仍然仅仅局限于一个非常小的圈子，只有欧洲我们才能 
+看到真正意义上繁荣的Demo社区。但我相信当年那些“吃螃蟹者”的勇敢尝试，仍然 
+会给今日中文社互联网社区留下许多借鉴和启示。 
+
+[1] http://www.cqcn.com/computearts/index.html 
+[2] farb-rausch.cn （已停止运营） 
+[3] http://www.cqcn.com/blog/archives/20050311_the_dream_of_demo.html 
+[4] http://www.pouet.net/prod.php?which=23981 
+[5] http://www.pouet.net/prod.php?which=23410 
+[6] http://www.pouet.net/prod.php?which=23410 
+[7]http://www.pouet.net/prod.php?which=72276 
+[8] www.azure.com.cn （已停止运营） 
+[9] http://www.pouet.net/prod.php?which=76064 
+[10] http://www.pouet.net/prod.php?which=76065 
+[11] http://www.pouet.net/topic.php?which=915 
+[12] http://www.artchn.com/news/Display/artchn_82778.html 
+[13] http://pain.scene.org （sYcini的采访载于12/06期） 
+[14] http://www.pouet.net/prod.php?which=25594 
+[15] http://www.pouet.net/prod.php?which=76066 
+[16] http://www.pouet.net/prod.php?which=72284 
+[17] http://www.pouet.net/prod.php?which=24609 
+[18] http://www.csksoft.net/blog/post/154.html 
+[19] http://www.pouet.net/user.php?who=23376&show=prods 
+[20] http://www.pouet.net/prod.php?which=30007 
+[21] http://www.pouet.net/prod.php?which=30615 
+[22] 
+http://hugi.scene.org/online/hugi34/hugi%2034%20-%20demoscene%20interviews%20magic%20in%20focus%20navis%20of%20andromeda%20software%20development.htm 
+[23] http://www.cnblogs.com/sailortony/archive/2007/11/15/959748.html 
+[24] http://www.pouet.net/prod.php?which=33442 
+[25] http://www.pouet.net/prod.php?which=34146 
+[26] https://forum.ubuntu.com.cn/viewtopic.php?f=70&t=320271 
+[27] https://www.shadertoy.com/user/EvilRyu 
+
+视频资料： 
+sYcini - sY03.Production 
+https://www.bilibili.com/video/av22623663/ 
+sYcini - sY05.lov.mem 
+https://www.bilibili.com/video/av22629946/ 
+sYcini - sY06.party 
+https://www.bilibili.com/video/av22630083/ 
+Dwing – ArtDemo 
+https://www.bilibili.com/video/av22632818/ 
+Psyong – psyong64k-1 
+https://www.bilibili.com/video/av22557632/ 
+Powerwood - 灵媒疾思 
+https://www.bilibili.com/video/av22557901/ 
+牡丹园 – 怒放 
+https://www.bilibili.com/video/av22561168/ 
+dword – House 
+https://www.bilibili.com/video/av23287921/ 
+wx – KXXT 
+https://www.bilibili.com/video/av22634015/ 
+EveTrex – EveTrex-1 
+https://www.bilibili.com/video/av22635089/ 
+Azure - 记忆2004 
+https://www.bilibili.com/video/av23317267/ 
+Azure - Azure Will Makes(Second Release) 
+https://www.bilibili.com/video/av23317144/ 
+Azure - 重生.azure 
+https://www.bilibili.com/video/av23316993/ 
+
+其他参考资料 
+从实时渲染视像 demo&intro 看数字视频艺术(其中有提到sYcini,psyong,azure等 
+国内demo作者) 
+《PAiN》磁盘杂志对sYcini的采访（中文翻译） 
+https://zhuanlan.zhihu.com/p/36198014 
+人大艺术学院12工作室2005毕业展报道（1） 
+http://www.visionunion.com/article.jsp?code=200505310023 
+《灵媒疾思》的互动展板装置 
+http://photo.163.com/firepower119/#m=1&aid=62807099&p=1 

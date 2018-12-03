@@ -1,0 +1,353 @@
+原文标题：8-Bit Revolution - Blurb round the edges（8比特革命 - 
+书皮上的简介） 
+
+链接： http://www.c64audio.com/download.php?ISRC=8BitRevolution&id=1627 
+
+第一章：简介 
+
+如果你是身在英国的流行歌迷，应该还记得Zombie Nation的那首Kernkraft 
+400（2000年英国排行榜第二名）。其中那段复古风格的主旋律是取材自80年代中期一款叫做Lazy 
+Jones的Commodore 64游戏（作曲者为David Whittaker）。Kernkraft 
+400录制之时距离这款游戏音效创作已经超过十年光景，Kernkraft 
+400重现了这一与众不同的潮流，将一股从80年代就隐藏于大众视野之下的文化暗流带出水面：从那个属于Lazy 
+Jones，Boulder Dash，Sanxion和Crazy 
+Comets的欢乐时代至今，孩子们和童心未泯的大人们都一直在收集、交换和混编C64音乐，搭建网站、采访他们少年时代的英雄，并与他们所崇拜的游戏作曲者一起组织现场演出。故事就是这样：8比特（特别是）Commodore 
+64音乐显示出它们超越原有边界的生命力，从游戏到演示程序，从C64到Atari 
+ST，Amiga，PC，Mac……再到MIDI，XM，MP3直到进化的最终阶段：商业唱片。 
+
+第二章：开天辟地的SID芯片 
+
+1982年发布的Commodore 
+64是第一款装备有内置音乐合成芯片的电脑，这款芯片就是大名鼎鼎的SID。它采用了发布之时，或者说那个年代标准的声音合成技术：三种合成音色（voice），每一种都包括一个振荡器、一个幅度调制器和一个包络发生器，外加一部可编程过滤器，同步和环型调制器。以现在的标准来看，这款芯片的结构相当简陋，但是相比起早期电脑和游戏机单音或者复音的蜂鸣声来说，SID芯片给人们带来的震撼与后来Symbian和爱立信推出第一款可以播放采样而不是只能滴滴答答唱着蟑螂之歌（La 
+Cucaracha）的手机时是一样的。 
+
+
+第三章：一个流派的诞生 
+
+早期的C64音乐人只是尝试着利用芯片的功能制作简单的音乐。不过，当充满创造力的英国业余程序开发社区开始注意到C64时，事情开始发生变化。一批从事其他行业的，技艺精湛的音乐人开始尝试将芯片和程序作为演奏乐器使用，C64音乐的质量开始大幅提高。而作曲家之间的友谊赛也拉开序幕，随着Rob 
+Hubbard（下图）, Martin Galway, Fred Gray,Ben Daglish和David 
+Whittaker等作曲家的参与，1985年到1987年间的Commodore 
+64音乐无论在数量还是质量都堪称是日新月异。 
+
+第四章：音乐明星的出现 
+
+这个时候出现了许多奇怪的现象：作曲家成为业界明星。就像一些小众歌星一样，人们为了购买音乐而购买游戏，仿佛是在购买7寸单曲小唱片。很多时候，一款商业上失败的游戏却因其中的音乐而活了下来。 
+
+除了音乐本身，造成这一现象还有另外的两个原因：首要的因素，是一本影响深远的杂志《Zzap!64》，这本杂志被认为是有史以来最成功的Commodore 
+64杂志，也是唯一一本可以逆转游戏评价的杂志，他们关注游戏背后制作者的个性远超游戏本身。Zzap!64的记者们亲自去采访这些作曲家，在他们的游戏评测中提到作曲家的名字，并像娱乐小报采访影视明星那样刊载关于作曲家的采访和八卦。最终定义了电脑音乐人这一概念，而在此之前是没有人想过这会成为一个新的职业。 
+
+其次，则是第一个有组织的Commodore 
+64在线社区以Compunet的形式出现，在这个自行组织的在线社区中，可以下载演示程序、参与投票、收发电子邮件、购买游戏。许多人抓住这个机会大力宣传自己的作品，即使是一些主流作曲家也通过在线论坛发布他们的作品，这种分享带来的回报则是让整个社区对明星们的崇拜更加狂热。 
+
+第五章：第二波浪潮 
+
+当第一批创作Commodore音乐的先驱们创作生涯结束的同时，收到先驱们的影响而新加入的作曲者则从Compunet和欧洲大陆涌现出来，这其中就包括了作品丰富的作曲家如Jonathan 
+Dunn (Choroid：脉络膜), Jeroen Tel（下图）和Maniacs of Noise（噪音狂人）以及Matt 
+Gray。与之同时，全世界数以百计的音乐人在芯片上编写程序进行创作，其作品被广泛用于电脑游戏和演示程序场景中(演示程序：demo，用于展示程序设计团队技术实力的动画幻灯片程序)。 
+
+第六章：因盗版而幸存 
+
+许多演示程序中的音乐代码往往是提取自知名的游戏音乐，这一明显的侵权行为却将这些音乐从其最初的用途中分离开来，促使其成为一种独立的艺术形式。稍晚些的1987年，Commodore 
+Amiga在上市之后广受赞誉，使稍早一些的Atari ST相形见绌。不过无论是Amiga还是ST都吸引了大量Commodore 
+64爱好者将他们所喜爱的歌曲带进新机型的演示程序中。 
+
+第七章：模拟器的启发 
+
+随着模拟器技术的出现（最早的模拟器出现于Amiga机的一款demo中，用于重现100首最受欢迎的Commodore 
+64音乐），一款叫做“Playsid”的独立音乐模拟器也Amiga平台上出现，其他平台上模拟器的出现也只是时间问题了。1994年，DOS版本的“Sidplay”发布，这款模拟器可以在PC上播放Commodore 
+64音乐，而最关键的，是这款软件的作者同时开发了“SID2MIDI”，这款新软件可以将模拟输出的C64音乐片段转换为GM 
+MIDI文件。 
+
+从那之后，加入C64音效的混音开始出现，首先是MIDI文件和Amiga机所使用的音频模组（Sound 
+Modules），之后则是MP3（到今天已经有超过1000首提供免费下载的MP3混音）。 
+
+============= 
+8位音乐CD简介 
+============= 
+
+CD专辑简介：走向商业，走向Back in Time（时光倒流） 
+
+在Commodore 
+64的巅峰时代之后，C64的粉丝群体一直期待他们所喜爱的曲调能够发布工作室版本。但由于法律和现实上的一些障碍，这一愿望一直无法实现。从1996年开始，C64Audio.com开始尝试理清C64音乐背后的法律问题，寻访音源的原作者，并尝试在原作者的许可和参与下发行CD专辑。这样做的目的是希望让Commodore 
+64时代的音乐不仅为粉丝群体，也为这个群体之外的人所接受，这一行动将花费三年左右的时间…… 
+
+Back in Time（BIT）1：8比特音乐风格的最后一站——CD市场 
+
+1997年，在漫长的等待之后，第一张重新混录的C64音乐CD终于在C64Audio的努力下完成了。虽然仍然面临许多技术上的限制，但这张CD一经发行就取得了巨大的成功，并一直占据着最畅销的C64专辑的宝座。 
+
+这张CD成功的关键在于其采用了合集的形式，因为这些乐曲的原作者都没有时间独立发行CD专辑，从而使这张专辑可以挑选C64时代最受欢迎的音乐曲目。而C64独特的音色本身就带有浓重的复古风格。 
+
+音乐人：Chris Abbott, Rob Hubbard, Chris Huelsbeck, Warren Pilkington, 
+Gabriele Priarone 
+
+BIT 2：8比特风格的成长 
+
+相比上一张专辑，Back in Time 
+2的音乐风格更加多元化。这受益于C64Audio工作室技术的改进，以及收录了一系列由版权所有者所捐赠的曲目，其中就包括身为Amiga明星和C64爱好者的Jogeir 
+Liljedahl和著名的8比特明星Danko，而Core Design(曾开发古墓丽影4, 古墓丽影5, 哈地大历险Hurdy 
+Gurdy)的音乐家Peter Connelly则捐赠两了首交响乐曲目。这张专辑的封面取材于早期的3D 
+Commodore 64游戏阿兹特克的挑战（Aztec Challenge）这款游戏是在Commodore 
+64发展的初期最接近于电影的游戏之一。 
+
+音乐人：Chris Abbott, Peter Connelly, Jogeir Liljedahl, Tomas Danko, Darren 
+Izzard 
+
+Nexus 6581：8比特新星的出现 
+
+2000年，一些曾经的作曲家开始积极策划推出他们自己的CD专辑。Reyn 
+Ouwehand就是其中之一，Reyn曾经是80年代末新锐C64乐队“噪音狂人”（Manics of 
+Noise）的成员之一，并且长期担任百代唱片的音乐制作人，曾负责制作了许多在荷兰排行榜上跻身十强的热门歌曲。 
+
+凭借自身在乐器和作曲方面的基础，Reyn创作了他的个人专辑《Nexus 
+6581》。这张专辑的听感更偏向摇滚和现场风格，并树立了Commodore 
+64专辑在音乐性上新标杆。同时，这张专辑也收录了一些相对小众的游戏及音乐人的作品。 
+
+BIT 3：8比特音乐与交响乐的融合 
+
+虽然最初的设想是作为Back in Time 2的续集，但Back in Time 3最终成为一张以Commodore 
+64科幻音乐为主题的概念性CD专辑。这项充满野心的计划试图将约翰威廉姆斯风格的器乐元素和振奋人心的让雅尔式合成器音乐结合在一起，向听众讲述一群太空旅行者离开家园寻找新世界的故事。这张专辑相比之前的两张来说，音乐上更加繁复，而主题则更加阴暗，同时，这张专辑配有一本包含了故事线索和插图的小册子，让没有相应背景的听众也能够了解专辑所包含的游戏内容。 
+
+音乐人: Alistair "Boz" Bowness, Chris Abbott, Jason Mackenzie, Marcel 
+Donne, Mike Andrews, Rob Hubbard, Darren Izzard, Steven Scherer, Jogeir 
+Liljedahl, Gareth "Tonka" Dolloway, O2 
+
+Karma64：冰镇8比特音乐 
+
+在完成Back in Time 3的制作之后，Alistair "Boz" Bowness, Jason "Kenz" 
+Mackenzie和Chris Abbott（也就是后来了慢性毒药乐队Slow Poison）认为Back in Time 
+3过于黑暗和沉重，因此Karma64作为一张由舞曲、新纪元和氛围音乐组成的专辑与世人见面了。正如名字所暗示的那样，这张专辑受到C64Audio工作室在此前购买的Korg 
+Karma键盘的强烈影响。 
+
+就像Back in Time 
+1所做的那样，这张专辑无论是音效还是混音都与之前的几张专辑皆然不容，这张专辑中所呈现出来的一些元素，在之后一段时间内被太空主题的新纪元音乐专辑所广泛使用。 
+
+音乐人: Alistair "Boz" Bowness, Chris Abbott, Jason "Kenz" Mackenzie. 
+
+Input64 和Output64 – 8比特风格的先锋派作品 
+
+自然而然的，一些主流唱片公司（这两张唱片的发行商为L'Age 
+D'Or是属于Zomba录音旗下的品牌）也对8比特音乐风格产生兴趣，而第一张专辑，则是出于德国:Kraftwerk和Zombie 
+Nation的故乡。 
+
+这只名为“Enduro（耐力赛）”的团队决定不采用任何混音技术，将Input64黑胶唱片和CD打造为一套面向商业市场的，原汁原味的Commodore 
+64音乐专辑。这也是Commodore 64音乐第一次通过主流唱片商发行。 
+
+许多乐评人都相当看好这张专辑，并称之为“处理器朋克”，但其中的一些元素却不被C64社区所认同，比如说这张专辑的音乐并非通过真正的SID芯片录制，选取的曲调也有些怪异。 
+
+与Input64不同，稍后推出的专辑Output64则是一张混音专辑，并使用了更加现代的电子音乐风格，听起来类似于Add 
+N to (X)、Plundersonics和Mikron 64的风格。 
+
+8比特时代的80年代混音 
+
+起源于一个简单的想法：既然Commodore 
+64音乐起源于80年代，如果不使用芯片，而是让当时的艺术家们亲自演奏这些曲目将会是什么样的效果呢？说不定因为历史的巧合，当年为Commodore 
+64编曲的音乐人们也曾经为唱片工业作曲呢!虽然80年代的文化饱受争议，但是像Neil这样的爱好者却仍然怀念着那个时代的音乐先锋，以及他们所创作的新奇声音。毕竟对于许多Commodore 
+64混音爱好者来说，与他们一同成长的不仅仅是Commodore 64上的曲调，还有包括宠物店男孩（Pet 
+Shop Boys）, Paul Hardcastle, 流行尖端（Depeche Mode）, Human 
+League等同时代的音乐人。Neil将最优秀的混音人才和作品聚集在一起，并制作了 “Remix64” 
+： 
+一部不依靠老调重弹的校园迪斯科而向80年代致敬的专辑！最终的结果，则是一张毫无保留的80年代音乐专辑，记载着来自8比特时代难以忘怀的记忆。 
+
+Instant Remedy - 8-bit Sash? 
+
+1998年，Martin "Instant Remedy" 
+Andersson的混音生涯开始于制作简单的tracker音乐，并很快成为C64爱好者群体中最炙手可热的制作人之一，他的所制作的高品质混音结合了SID和Sash风格的舞曲节奏，虽然延续了80年代末期的风格，但即使登上伊维萨岛海滩的音乐节也不会让人觉得意外。同年，Instant 
+Remedy发行了他的音乐CD，这张舞曲风格的专辑是发行之时最为商业化的C64混音专辑。 
+
+Galway Remixed - 化学风格的Reyn Ouwehand 
+
+在最富盛名的C64作曲家Martin Galway的帮助下，Reyn 
+Ouwehand制作了这张俱乐部合成（club/synth）风格的CD。非常具有时代感，但又带有意想不到的复古风格，Reyn在维持了乐曲片段结构的同时对这些片段进行了巧妙地改变。不同于Instant 
+Remedy那样浓重的舞曲风格，在Reyn加工下的8比特经典曲调更让人联想到化学兄弟（Chemical 
+Brothers）和Orbital乐队。 
+
+=========== 
+8-bit名人录 
+=========== 
+
+★ 作曲家： 
+
+Rob Hubbard - 在Rob的程序生涯开始之前，他曾是一位富有经验的音乐人，当开始通过为Commodore 
+64编写程序赚钱之后，Rob成为8比特世界中最富盛名的作曲家。在8比特时代落下帷幕之时，他曾为坐落于红木城的艺电工作了十二年。之后又回到英国生活。 
+
+特色：富于变化的音乐风格，实验性的声音，唤醒现实世界中的情感 
+
+Martin Galway - 作为长笛演奏家James Galway的侄子，Martin的编程和音乐生涯开始于大学时代接触过的BBC 
+Micro电脑，之后他先后以程序员和作曲家的身份为Ocean Software工作。 
+
+特色：在Martin创作的时代，Trance这种音乐风格尚未被外界所了解，而Martin则是最早采用这种风格的作曲者之一。Martin的音乐中大量使用切分音和丰富的旋律，并避免使用鼓。因为缺少鼓的缘故，Martin的是最常被用作C64采样的音乐家，而他的作品也被许多不同风格的音乐人所借鉴。 
+
+Ben Daglish - 在Ben的朋友，著名8比特作曲家的Tony Crowther的邀请下，Ben 
+Daglish开始为Tony的游戏编写音乐，Ben的音乐流传极广，在现实世界中有着不亚于Rob的影响力。最终Ben成为游戏厂商Gremlin 
+Graphics的专属作曲家，创作了数量可观的音乐作品。 
+
+特色：平静的前奏，富于动感的曲调，对声音的巧妙利用 
+主页： http://www.ben-daglish.net/index.shtml 
+
+David Whittaker - 
+David可能是有史以来作品最为丰富的电脑作曲家，他的数千部游戏音乐作品跨越了从Amstrad到Amiga的各种电脑平台。现在，David作为游戏对白专家参与到最多游戏的开发中。他最著名的作品要数游戏Lazy 
+Jones的背景音乐了，这段音乐后来也出现在Zombie Nation的作品中。 
+
+特色：在David职业生涯的早期，他也曾经担任过程序员的角色，那时他的音乐往往具有简洁明快的曲调。后期的音乐则时而活泼时而严肃。David尤为擅长在极短的时间内创作音乐，时常在数小时内就可以创作一首完整的曲目。 
+
+Fred Gray - Fred在其创作的巅峰时期曾作为Imagine 
+software的御用作曲家，Fred的音乐鲜明的个性令其在诸多作品中脱颖而出，人们很容易从众多的音乐作品中认出Fred的作品。同时，Fred的音乐也非常前卫，并富于幽默感。 
+
+特色：12/8拍，极为独特的电子音效，令人难以形容！ 
+
+Tim Follin - 
+Tim是70年代前卫摇滚的忠实粉丝，1988年加入的他算是8比特时代的后起之秀了。很快他令人称道的流畅曲风（结合了他对前卫摇滚的理解）和高超的创作技艺（尤其是利用ZX 
+Spectrum的蜂鸣器芯片编写的全合成配乐）都令听众印象深刻。之后的世嘉DC游戏海豚历险记（Ecco 
+the Dolphin）也是他的作品之一。 
+
+Twitter: https://twitter.com/TimFollin 
+
+Maniacs of Noise - 在世界上第一位音频驱动程序开发者Charles 
+Deenen的组织下，由荷兰8比特音乐人所组成的松散群体。Jeroen Tel是其中最著名的一位。其它曾加入这一组织的成员包括Johannes 
+Bjerregaard, Reyn Ouwehand以及Marcel Donne。 
+
+官网 Maniacs of 
+Noise：https://link.zhihu.com/?target=https%3A//www.maniacsofnoise.com/ 
+SoundCloud：https://soundcloud.com/maniacs-of-noise 
+
+Jeroen Tel – 
+早在1986~1987年间，Jeroen早期作品的精彩表现就已经树立了他在8比特音乐节的地位。其音乐最明显的特点包括放克风格的贝司、添加过滤器效果的主音吉他以及有力的鼓点。标志性的放克风格使他（和Maniacs 
+of Noise的同伴们）成为无数追随者模仿的对象。 
+
+基于Maniacs of Noise的成果，一款名叫“未来作曲家（Future 
+Composer）”的C64编曲软件被开发出来，并成为当时最流行的SID音乐制作软件，让后来的参与者不需要再像C64先驱们那样自己编写声音驱动程序也可以为SID编写音乐。 
+
+Youtube主页 https://www.youtube.com/user/freejaytea 
+
+Reyn Ouwehand – 作为Maniacs of Noise的年轻成员，Reyn曾经为一系列C64游戏编写音乐，他试图将Maniacs 
+of 
+Noise的另类声音风格带入更加严肃的场合，并勇往直前的开辟了商业唱片市场的新天地，现在他是最重要的8比特演奏家之一。并发行了两张相当精彩的CD专辑。 
+
+Youtube主页https://www.youtube.com/channel/UCJPkdpo01dQaE26Rc_zTMZg 
+
+Marcel Donné (MAD) – 原Maniacs of 
+Noise成员之一（曾经制作过大概10首SID曲目）。因其混音作品而成名。 
+
+Jonathan Dunn (Choroid) – Jonathan最开始是一名Demo音乐人，后接替离任的Martin 
+Galway为Ocean 
+software工作，在此期间他成为作品丰富的作曲家。他的很多曲目都是授权作为游戏音乐，并被封存了相当一段时间，幸运的是这些作品大都被保存了下来。Jonathan为Ocean 
+software工作到90年代末，现在他是芝加哥的House制作人和混音师。 
+
+Matt Gray – 
+同样出身于Demo音乐人的Matt，凭借着自己的敬业精神很快就找到了自己在8比特音乐界的位置，他的音乐往往有着充满力量感的低音线索，而相比Rob 
+Hubbard的作品则更加易于理解。Matt最为著名的作品包括“钻孔机（Driller）” ， “最后的忍者2（Last 
+Ninja 2）”以及“曼谷骑士（Bangkok 
+Knights）”加载音乐。在结束8比特音乐的创作后，Matt成立了自己的舞曲品牌，他还是雪儿（Cher）的名曲Believe的联合作曲人之一。 
+
+Youtube主页 https://www.youtube.com/channel/UCIUMstuRTqj6uh250LXnHVA 
+
+Graham Marsh "The Mighty Bogg" – 
+Graham是Demo音乐的先驱之一，也是第一位利用SID芯片完整重现"Kayleight"，"Axel 
+F"以及"Master and Servant" 
+80年代热门歌曲的开发者。他的原创专辑展现出前所未见的独特的旋律和结构。 
+
+Johannes Bjerregaard – SID芯片的放克音乐大师（并且是Reyn 
+Ouwehand的偶像），Johannes利用SID芯片就像真实演奏般挥洒自如，现在他是一位爵士音乐家。 
+
+Paul Norman – 早在所有著名音乐人出名之前，来自加州的游戏开发者Paul Norman就已经开发过Forbidden 
+Forest和Super Huey两款百万销量的游戏大作了。Forbidden 
+Forest作为他的第一款游戏，采用了极具开创性的4D地图（不仅有三维地形，而且随着时间的推移地形会展现出不同变化）。而他的第一部音乐作品则是以交响乐作为基础的，尽管受到SID性能的限制仍然带有那个时代典型的锯齿波，但Paul 
+Norman仍不愧为一名不断超越技术极限的先行者。 
+
+官方网站：www.digittarius.com 
+
+David Dunn – 曾经创作许多可爱曲调的David 
+Dunn可能是有史以来第一位专业游戏音乐家，他的作品多为精美可爱的乐曲和古典曲目，或是处于怀旧而改写的来自约翰·列侬的经典曲调。他也是第一位在SID芯片上使用几乎所有过滤器效果的作曲家。 
+
+Søren Jeff Lund – 
+Søren是一位直到今天仍然使用SID进行创作的作曲家，他的作品明显受到现代舞去的影响，并融合了SID的独特音调。他同时也是一名混音师。 
+
+Martin Walker – 
+Martin原本是一位程序员，在退出8bit音乐圈之前他曾经是社区名人，同时也是一名独立音乐家。现在他是"Sound 
+on Sound"杂志的作者之一。 
+
+官方网站 http://www.yewtreemagic.co.uk 
+
+Steve Rowlands - Rowlands Brothers程序团队的一员，他的音乐受到Maniacs of 
+Noise的影响，并更加复杂，尤其是在贝司和鼓的使用上。（上图右为Steve Rowlands，左为John 
+Rowlands） 
+
+Richard Joseph – 
+70年代的前卫摇滚明星和电子乐先驱，他将自己的声誉完全押宝在将游戏音乐变为一种艺术形式的努力上，并创作了一系列经典作品。后来他曾为Sensible 
+Software工作，在此他创作了游戏Cannon Fodder（炮灰）的主题曲War，以及为因为太“耸人听闻” 
+而从未发布的"Sex, Drugs and Rock 'n 
+Roll（性、毒品和摇滚乐）"所编写的神秘专辑。 
+
+★ 编曲者、混音师和制作人： 
+
+8-bit Weapon 
+https://8bitweapon.com 
+
+Alistair "Boz" Bowness 
+http://www.bozretro.com 
+
+Chris Abbott 
+https://soundcloud.com/chrisabbott 
+
+Danko 
+DHS 
+DJ Kinky 
+FTC 
+
+Instant Remedy 
+http://www.irsounds.com 
+
+Jason "Kenz" Mackenzie 
+Jogeir Liljedahl 
+
+Lman 
+https://www.facebook.com/MultiStyleLabs/ 
+
+Machinae Supremacy 
+https://www.machinaesupremacy.com 
+
+Mahoney 
+Makke 
+Marcel Donne 
+
+Max Hall 
+https://soundcloud.com/maxhall 
+
+MayBeBop 
+Neil Carr 
+
+No Other Medicine 
+https://soundcloud.com/noothermedicine 
+
+O2 
+Perhaps-a-Doobie 
+
+Press Play on Tape 
+http://pressplayontape.com 
+
+Puffy64 
+http://www.puffy64.de/html/index.html 
+
+Rauli 
+
+Reyn Ouwehand 
+http://www.reyn.net 
+
+Slow Poison 
+
+Sonic Remedy http://www.sonicremedy.com/ 
+
+Sonic Wanderer 
+SpoofTraxx 
+Terminal Storm 
+The Dead Guys 
+
+The SoundWavers 
+https://www.facebook.com/thesoundwavers/ 
+
+Tonka 
+Trace 
+Trauma 
+
+Wobbler 
+https://soundcloud.com/thewobbler 

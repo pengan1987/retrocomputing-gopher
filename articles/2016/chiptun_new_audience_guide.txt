@@ -1,0 +1,23 @@
+﻿写给新观众的Chiptune现场指南 
+
+在5月28号的温哥华怀旧游戏博览会（Vancouver Retro Gaming 
+Expo）上，温哥华本土的Chiptune音乐人BRYFACE（左）和FASTBOM（右）在现场进行了一场并不多见的Chiptune现场表演。相比于欧洲，对于北美的观众来说Chiptune还是比较陌生的，而这次的演奏者之一FASTBOM则是来自于北欧的瑞典。为了让观众更好的了解Chiptune表演，演奏者很用心的准备了教学PPT给大家，并演示了每种不同设备的音色。并介绍了若干不同的器材和制作手段。 
+
+任天堂NES/FC（1986）：5个声音通道，使用恶魔城传说卡带附带的VRC6芯片可以得到3个额外的声音通道。 
+“假比特（fakebit）”：使用现代的音频制作软件，通常利用针对特定芯片的音频插件，如果你没有老式硬件，你可以使用这种制作方式。 
+Gameboy（1989）：4个声音通道，可以购买爱好者自制的软件（比如Little Sound 
+DJ）并烧录到卡带上，将你的Gameboy变成一部音序器和合成器。 
+序列模组（.MOD/.XM/.IT）：运行于老式电脑上，出现时间早于MP3，在现代的音序器出现之前是常用的制作手段 
+Commodore 64（1982）：使用SID芯片，3个声音通道，在Demoscene界大名鼎鼎的Commodore 
+64 
+
+Chiptune音色demo 
+http://v.youku.com/v_show/id_XMTU4ODU4NjU1Ng==.html 
+
+现场使用了Commodore 
+1701显示器，是Chiptune表演中常见的装备之一。还可以很清楚的看到Gameboy，NDSL，FC，Commodore 
+64还有iPad Pro，Lenovo 
+Yoga等设备。同时要感谢两位演奏者的精彩表演和教学，大家可以去SoundCloud欣赏更多他们的作品。 
+
+BRYFACE https://soundcloud.com/bryface 
+FASTBOM https://soundcloud.com/fastbom 
